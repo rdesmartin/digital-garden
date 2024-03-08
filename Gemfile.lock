@@ -12,8 +12,9 @@ GEM
   specs:
     addressable (2.8.1)
       public_suffix (>= 2.0.2, < 6.0)
-    bibtex-ruby (6.0.0)
+    bibtex-ruby (6.1.0)
       latex-decode (~> 0.0)
+      racc (~> 1.7)
     citeproc (1.0.10)
       namae (~> 1.0)
     colorator (1.1.0)
